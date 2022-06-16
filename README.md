@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xkraaav
-- 👀 I’m interested in creating and playing games
+- 👀 Currently working in @logicnightgames
 - 🌱 I’m currently learning how to use github :)
 - 📫 Discord - kraaav#1240
 - 📫 Twitter - @kraaav_
