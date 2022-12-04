@@ -3,7 +3,7 @@
 - 📽 Video editor on <a href="https://www.fiverr.com/kraaav/">Fiverr!</a>
 - 🌱 I’m currently learning how to use github :)
 - 📫 Discord - kraaav#1240
-- 📫 Twitter - @kraaav_
+- 📫 Twitter - <a href="https://www.twitter.com/kraaav_">@kraaav_</a>
 
 <!---
 xkraaav/xkraaav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
