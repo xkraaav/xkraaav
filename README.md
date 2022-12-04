@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @xkraaav
-- 👀 Currently working at Logic Night Games
+- 👀 Game developer at Logic Night Games
+- 📽 Video editor on <a href="https://www.fiverr.com/kraaav/">Fiverr!</a>
 - 🌱 I’m currently learning how to use github :)
 - 📫 Discord - kraaav#1240
 - 📫 Twitter - @kraaav_
