@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @xkraaav
-- 👀 Game developer for <a href="https://www.github.com/logicnightgames/">Logic Night Games</a>
-- 📽 Video editor on <a href="https://www.fiverr.com/kraaav/">Fiverr!</a>
-- 📫 Discord - kraaav#1240
+- 👀 I'm a student majoring in programming
+- 📫 Discord - @kraaav
 - 📫 Twitter - <a href="https://www.twitter.com/kraaav_">@kraaav_</a>
 
 <!---
