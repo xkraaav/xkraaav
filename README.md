@@ -1,8 +1,6 @@
 ## 👤 O mnie  
 17-letni uczeń na profilu "Technik Programista" z Krakowa.
 
-## Obszary, w których działam  
-
 ### 🎨 Graphic Design  
 - tworzenie identyfikacji wizualnych, grafik interfejsów, materiałów promocyjnych  
 - projektowanie UI/UX oraz layoutów przyjaznych użytkownikowi  
