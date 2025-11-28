@@ -1,19 +1,19 @@
-## 👤 O mnie  
-17-letni uczeń na profilu "Technik Programista" z Krakowa.
+## 👤 About me  
+I’m a 17-year-old from Kraków studying in Technical College to become a dev in near future.
 
 ### 🎨 Graphic Design  
-- tworzenie identyfikacji wizualnych, grafik interfejsów, materiałów promocyjnych  
-- projektowanie UI/UX oraz layoutów przyjaznych użytkownikowi  
+- Creating visual identities, interface graphics, promotional materials  
+- Designing UI/UX and user-friendly layouts  
 
 ### 🤖 AI Agent Development / MCP Servers  
-- budowa agentów AI i architektury MCP z naciskiem na bezpieczeństwo (autoryzacja, zarządzanie kluczami, ochrona promptów)  
-- integracje z API (np. GPT-4o), bezpieczne pipeline’y agentów  
+- Building AI agents and MCP server architecture with focus on security (authorization, key management, prompt-protection)  
+- Integrating with APIs (e.g. GPT-4o), building safe agent pipelines  
 
 ### 👨‍💻 Full-Stack Development  
-- front-end (np. React) + back-end (.NET, API)  
-- budowanie skalowalnych, API-first aplikacji, często z komponentami 
+- Front-end (e.g. React) + back-end (.NET, APIs)  
+- Building scalable, API-first applications, often with integrated AI components 
 
-## 🚀 Co aktualnie tworzę / planuję  
-- moduły agentów AI z serwerem autoryzacji i pełnym backendem  
-- aplikacje full-stack łączące UI + logikę AI + backend  
-- projekty, w których design i kod tworzą spójne doświadczenie  
+## 🚀 Working on.. / Planning to build..
+- AI agent modules with authorization server and full backend  
+- Full-stack applications combining UI, AI logic, and backend  
+- Projects where design and code create a coherent user experience  
