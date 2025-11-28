@@ -1,5 +1,3 @@
-# Jan Krawczyk  
-
 ## O mnie  
 17-letni uczeń na profilu "Technik Programista" z Krakowa.
 
